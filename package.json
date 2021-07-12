@@ -1,0 +1,16 @@
+{
+  "name": "ftpapp",
+  "version": "1.0.0",
+  "description": "ftp file transfer",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lot",
+  "license": "ISC",
+  "dependencies": {
+    "basic-ftp": "^4.6.3",
+    "nodemailer": "^6.5.0",
+    "nodemon": "^2.0.7"
+  }
+}
